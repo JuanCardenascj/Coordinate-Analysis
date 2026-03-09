@@ -115,6 +115,6 @@ java CoordinateAnalysis
 
 ## Author
 
-Student contribution for a Java programming exercise.
+Juan David Cárdenas Jiménez - Software Engineering Student
 
 This implementation demonstrates the use of loops, conditionals, mathematical calculations, and input processing in Java.
